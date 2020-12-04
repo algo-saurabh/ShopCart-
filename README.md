@@ -1,1 +1,1 @@
-# Shopping cart application MVVM architecture
+# MVVM architecture
